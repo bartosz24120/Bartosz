@@ -8,3 +8,4 @@ liczby = [2, 4, 6, 8, 10]
 
 srednia = oblicz_srednia(liczby)
 print("Średnia wynosi:", srednia)
+edycja1
