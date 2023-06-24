@@ -10,4 +10,3 @@ imie = input("Jak masz na imię? ")
 print("Miło Cię poznać, " + imie + "!")
 edycja1
 edycja2
-edycja3
